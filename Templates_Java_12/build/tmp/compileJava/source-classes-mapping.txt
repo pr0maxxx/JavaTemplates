@@ -1,6 +1,0 @@
-ru/mirea/ikbo1319/task12/components/Converter.java
- ru.mirea.ikbo1319.task12.components.Converter
-ru/mirea/ikbo1319/task12/Task12Application.java
- ru.mirea.ikbo1319.task12.Task12Application
-ru/mirea/ikbo1319/task12/components/FileReader.java
- ru.mirea.ikbo1319.task12.components.FileReader
